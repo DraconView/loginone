@@ -1,0 +1,20 @@
+-------------------------------------------------------------------
+
+  "devDependencies": {
+    "": "^16.1.0",
+    "": "^2.10.0",
+    "": "^6.0.3",
+    "": "^7.7.0"
+  }
+}
+
+const config = {
+  apiKey: "AIzaSyCQroIMI3QUryeW5HDChlKelsLTh2IM48U",
+  authDomain: "siristore-57b74.firebaseapp.com",
+  projectId: "siristore-57b74",
+  databaseURL: "https://siristore-57b74-default-rtdb.firebaseio.com/",
+  storageBucket: "siristore-57b74.appspot.com",
+  messagingSenderId: "194688247349",
+  appId: "1:194688247349:web:76b7a82e657e370d9a337c",
+  measurementId: "G-B6767VY0YQ"
+};
